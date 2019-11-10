@@ -1,0 +1,4 @@
+[submodule "AlphaPose"]
+	path = AlphaPose
+	url = https://github.com/sanghoho/AlphaPose.git
+	branch = pytorch
